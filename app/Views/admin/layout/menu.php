@@ -9,7 +9,7 @@ $site         = $konfigurasi->listing();
     color: yellow !important;
   }
 </style>
-<!-- Main Sidebar Container -->
+<!-- Main Sidebar Contasiner -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
